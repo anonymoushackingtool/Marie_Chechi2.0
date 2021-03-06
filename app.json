@@ -1,6 +1,6 @@
 
 {
-  "name": "Marie_Chechi2.0",
+  "name": "TG Free Bots Group Manager",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/TGExplore/Marie_Chechi2.0",
+  "repository": "hhttps://github.com/anonymoushackingtool/Marie_Chechi2.0",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
